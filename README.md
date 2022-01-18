@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mzy0125
+- 👋 Hi, I’m @MetG
 - 👀 I’m interested in FE
 - 🌱 I’m currently learning ES6
 - 💞️ I’m looking to collaborate on ...
